@@ -14,7 +14,7 @@ Data stealing attacks or data extraction attacks aim to derive and infer (parts 
 - [DLG [1]](https://github.com/mit-han-lab/dlg)
 - [InvGrad [2]](https://github.com/JonasGeiping/invertinggradients)
 
-### Recommendation Readings
+### Recommended Readings
 
 [i] Carlini N, Liu C, Erlingsson Ú, et al. The secret sharer: Evaluating and testing unintended memorization in neural networks. USENIX Security 19\
 [ii] Yin H, Molchanov P, Alvarez J M, et al. Dreaming to distill: Data-free knowledge transfer via deepinversion. CVPR 2020\
