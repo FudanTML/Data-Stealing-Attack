@@ -1,4 +1,4 @@
-# Data-Stealing-Attack
+# Data Stealing Attack
 
 ### Problem Statement
 
